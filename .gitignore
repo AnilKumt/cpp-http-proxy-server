@@ -1,0 +1,12 @@
+# Compiled Executables & Object Files
+proxy
+*.o
+*.obj
+*.exe
+
+# Compressed Archives
+*.tar.gz
+*.zip
+LAB2.tar.gz
+
+
